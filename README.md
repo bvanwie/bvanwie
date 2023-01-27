@@ -1,5 +1,14 @@
 ### Hi there 👋
+  I'm finally taking some time to learn a little bit about GitHub in order to enhance some Arduino projects that I'm working on.  I'm no Arduino expert, either, so checking out open source repositories seemed like the way to go!
+  
+  So that I can recall how to edit this later, I'll throw a few links here...
+*   [HackMD for editing](https://hackmd.io/)
+*   [HackMD Tutorial](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials)
+*   [HackMD Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+*   [GitHub Desktop](https://desktop.github.com/)
 
+  
+  
 <!--
 **bvanwie/bvanwie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
